@@ -1,16 +1,23 @@
-## Hi there 👋
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<!--
-**robertoisAac-Web/robertoisAac-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+```python
+class WhoAmI:
+    user = 'Roberto Isaac'
+    current_edu = "Ingeniero en Software"
+    currently_learning = "ASP.NET Core, SQL Server y Unit Testing"
+    fun_fact = "Me gusta la música y los videojuegos cooperativos"
+    hobbies = [
+        'Tocar guitarra',
+        'Videojuegos cooperativos',
+        'Cocinar',
+        'Explorar tecnología'
+    ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def getCity():
+        return SantoDomingoOeste_RD()
+
+    def Ambitions():
+        CrearNegocioDesarrolloWeb()
+        SerFullStackDeveloper()
